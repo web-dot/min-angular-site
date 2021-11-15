@@ -18,7 +18,7 @@ import { CommonModule } from '@angular/common';
   ],
   exports:[
     HeaderComponent,
-    FooterComponent
+    FooterComponent 
   ],
   providers: [
     UserService
